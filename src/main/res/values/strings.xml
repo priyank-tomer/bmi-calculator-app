@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="bmi">BMI</string>
+    <string name="bmi_meter_underweight_start">16.0</string>
+    <string name="bmi_meter_normal_start">18.5</string>
+    <string name="bmi_meter_overweight_start">25.0</string>
+    <string name="bmi_meter_overweight_end">40.0</string>
+    <string name="weight">Weight</string>
+    <string name="default_weight_value">60</string>
+    <string name="overweight">Overweight</string>
+    <string name="normal">Normal</string>
+    <string name="underweight">Underweight</string>
+    <string name="information">Information</string>
+    <string name="default_bmi">22.1</string>
+    <string name="go">GO</string>
+    <string name="decimal">.</string>
+    <string name="zero">0</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+    <string name="back">back</string>
+    <string name="six">6</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="all_clear">AC</string>
+    <string name="nine">9</string>
+    <string name="eight">8</string>
+    <string name="seven">7</string>
+    <string name="centimeters">Centimeters</string>
+    <string name="default_height">170</string>
+    <string name="kilograms">Kilograms</string>
+    <string name="height">Height</string>
+</resources>
